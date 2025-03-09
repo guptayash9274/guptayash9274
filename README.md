@@ -1,16 +1,14 @@
 ## Hi there 👋
+# Hi there, I'm Yash 👋
 
-<!--
-**guptayash9274/guptayash9274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently working at HSBC as a part of Data Science Team responsible for hanlding problems related conversational bankig domain.  
+- I have been graduated as Master of Statistics from Indian Statistical Insititute, Kolkata.
+- Recently I have got very much interested passoinate about learning Causal Inference and A/B Testing.
+- Always interested in learning new ML algorithms, Deep Learning and ongoing trends.
+- You can visit to my github page to learn more about me and my work.
 
-Here are some ideas to get you started:
+## Looking Forward to Contribute with You
+- Email: guptayash1204@gmail.com
+- LinkedIn: [Yash LinkedIn](https://www.linkedin.com/in/yash-gupta-764337194/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
